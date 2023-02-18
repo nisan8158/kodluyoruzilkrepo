@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tatlitarifi</title>
+</head>
+<body>
+    <h1>---sufle---</h1>
+    <p>Sufle, kökeni 18. yüzyıl Fransa'sına dayanan bir tatlıdır.</p>
+    <p><strong>Tarif:</strong> Nisan</p>
+    <p><strong>Kaç Kişilik:</strong> Bir porsiyon <strong>Hazırlama Süresi:</strong> 5 Dk <strong>Pişirme Süresi:</strong> 10 Dk </p>
+    <img src="images/sufle.jpeg" alt="">
+    <hr>
+    <h2>Malzemeler</h2>
+    <ul>
+        <li>2 adet yumurta</li>
+        <li>1 su bardağı şeker</li>
+        <li>1 su bardağı ılık süt</li>
+        <li>Yarım su bardağı sıvı yağ</li>
+        <li>Yarım su bardağı kakao</li>
+        <li>1.5 su bardağı un</li>
+        <li>2 paket kabartma tozu</li>
+        <li>2 paket vanilya</li>
+    </ul>
+    <hr>
+    <h2>Püf noktaları?</h2>
+    <ol>
+        <li>Kakaolu sufle yaparken pişme süresine dikkat etmelisin. Pişme süresi fırından fırına değişiklik göstermekte. Eğer normal bir kek gibi uzun süre pişirirsen suflenin içi akışkanlığını kaybeder. Eğer daha az akışkan ve kek gibi bir sufle istersen daha uzun sürede de pişirebilirsin.</li>
+        <li>Sufle kalıplarını iyice yağlarsan sufleler kalıba yapışmaz ve kolayca kalıptan ayrılır.</li>
+        <li>Sufleleri pudra şekeriyle süsleyebileceğin gibi, kakao veya çeşitli mevsim meyveleri de ekleyebilirsin.</li>
+    </ol>
+    <hr>
+    <h2>Kakaolu Sufle Nasıl Yapılır?</h2>
+    <ul>
+        <li>Sufle yapımı için öncelikle yumurta ve şekeri derin bir karıştırma kabında çırpmaya başla. Bu aşamada çırpma işlemini 8-10 dakika kadar sürdür ve yumurtanın köpük köpük olmasını bekle.</li>
+        <li>Ardından ılık sütü ve sıvı yağı ekleyerek çırpma işlemine devam et.</li>
+        <li>Bu karışıma yarım su bardağı kakaoyu, 1.5 su bardağı unu, ikişer paket kabartma tozunu ve vanilyayı ekle. Katı malzemeleri de ekledikten sonra karışımı 3 dakika kadar çırpmaya devam et.</li>
+        <li>Hazırladığın sufle karışımını, sıvı yağ ile güzelce yağladığın sufle kalıplarının içine eşit bir biçimde paylaştır.</li>
+        <li>Önceden ısıtılmış 170 derecelik fırında yaklaşık 10-12 dakika kadar pişir. Eğer içinin daha kek gibi olmasını istersen 20-25 dakika pişirebilirsin.</li>
+        <li>Fırından çıkardığın suflelerin bir süre ılımasını bekle. Ardından dilersen kalıptan çıkararak dilersen de sufle kalıbı içinde keklerin üzerini süsle.</li>
+        <li>Süsleme işlemini pudra şekeriyle yapabileceğin gibi, kakao ile de gerçekleştirebilirsin. Aynı zamanda çeşitli şekerlemeler, damla çikolatalar ve pasta süsleri ile de kakaolu suflelerini süsleyebilirsin.</li>
+        <li>Şimdi kakao aşkını doruklarda yaşama zamanı! Lezzetli kakaolu suflenle kendini şımartabilir, kendine keyifli ve mutlu anlar yaşatabilirsin. Afiyet olsun!</li>
+    </ul>
+
+    
+</body>
+</html>
